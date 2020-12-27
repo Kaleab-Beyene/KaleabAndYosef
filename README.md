@@ -2,9 +2,11 @@
 
   BBmainActivity IS ASSIGNMENT TWO
   
-  Name                                        ID
-Kaleab Beyene                             DBUR/1231/10
-Yosef Amdu                                DBUR/0485/09
+                             
+Kaleab Beyene  DBUR/1231/10     
+
+
+Yosef Amdu    DBUR/0485/09                           
 
 
 
